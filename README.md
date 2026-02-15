@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me insta: @not.swornadt
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: C++ is better than Java
 
 <!---
 Swornadt/Swornadt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
