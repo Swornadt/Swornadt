@@ -3,7 +3,7 @@
 CS undergraduate at Islington College, Kathmandu — I build full-stack products and lead a student engineering community, not just coursework.
 
 - 🎓 CS undergrad at Islington College (Kathmandu, Nepal)
-- 💼 PM at **Project Aalaya** — a trust-first short-term rental platform for students & travelers
+- 💼 Project Lead at **Project Aalaya** — a trust-first short-term rental platform for students & travelers
 - 🚀 Founder & Community Lead, **Islington WebDev Community (IWC)** — a student engineering organization
 - 🌱 Student partner, **Leapfrog's LSPP** program
 - 🔭 Currently looking for a **software development internship**
